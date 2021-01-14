@@ -1,0 +1,80 @@
+
+@import url(https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap);
+.box {
+    border-radius: 10px 10px 10px 10px;
+    border-radius: 10px 10px 10px 10px;
+    background: #fff;
+    padding: 30px;
+    width: fit-content;
+    position: relative;
+text-align: left;
+    height: fit-content;
+    margin: 60px;
+    padding: 40px;
+    box-shadow: 0 10px 15px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 10px 15px 0 rgba(0,0,0,0.3);
+   
+  }
+  .box1 {
+   
+    width: 500px;
+    text-align: center;
+    height: fit-content;
+    margin: 0 auto;
+  }
+  .box2 {
+    background:#D3D3D3;
+    text-align: center;
+    width: 1100px;
+    height: fit-content;
+    margin: 0 auto;
+    padding: 40px;
+    box-shadow: 0 10px 15px 0 rgba(0,0,0,0.3);
+    box-shadow: 0 10px 15px 0 rgba(0,0,0,0.3);
+   
+  }
+  .box22 {
+   
+    text-align: center;
+    height: fit-content;
+    margin: 0 auto;
+   
+  }
+  
+.button1 {
+    font-size: 25px;
+     font-family: 'Patua One';
+  background-color:transparent; 
+  color: black; 
+  border: 2px solid black;
+  padding: 15px 30px;
+ 
+  margin: 20px;
+}
+
+.button1:hover {
+    font-size: 25px;
+    font-family: 'Patua One';
+    background-color:transparent; 
+  color: black; 
+  
+  margin: 20px;
+  border: 2px solid black;
+  
+}
+.header {
+  padding: 1px;
+  text-align: center;
+  
+
+}
+
+.f1{
+
+  font-family: 'Bebas Neue' ;
+  color: black;
+  text-align: center;
+  font-size: 70px;
+
+
+}
